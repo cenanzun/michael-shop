@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfd84355-63e5-417d-8c08-8cc6d0cb805d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/michael-shop-parent/pom.xml" afterPath="$PROJECT_DIR$/michael-shop-parent/pom.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/michael-shop-parent/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-basics/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-basics-springcloud-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-service-api/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-service-api-weixin/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-api-entitys-api/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-api-entitys-api-weixin/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-service-impl/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-service-impl-service/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-service-api-member/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-service-impl-member/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-service-impl-weixin/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-basics-springcloud-zuul/target/" />
+    <ignored path="D:/Desktop/个人提升/硬实力/2Java/Javaee/2/06电商项目/004-每特教育&amp;蚂蚁课堂-第四期-基于SpringCloud构建微服务电商项目-搭建企业级微信公众号管理平台/资料/weixin-java-mp-demo-springboot-master/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-portal/target/" />
+    <ignored path="$PROJECT_DIR$/weixin-java-mp-demo-springboot/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-common/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-common-core/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-api-entitys-api-member/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-api-dto/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-api-dto-member/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-api-dto-weixin/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-api-entitys-member/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-api-entitys-weixin/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-api-entitys/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-portal-web/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-common-web/target/" />
+    <ignored path="$PROJECT_DIR$/dysms-demo/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-api-service-member/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-api-service-weixin/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-api-service/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-service/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-service-member/target/" />
+    <ignored path="$PROJECT_DIR$/michael-shop-service-weixin/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="michaelShopAllStack" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lom</find>
+      <find>spr</find>
+      <find>wa</find>
+      <find>swa</find>
+      <find>w</find>
+      <find>lo</find>
+      <find>loa</find>
+      <find>load_</find>
+      <find>家</find>
+      <find>inde</find>
+      <find>index.h</find>
+      <find>index</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/michael-shop-common-core/src/main/java/com/michael/core/error/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/java/com/michael/member/service/impl/MemberRegisterServiceImpl.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-api-member/src/main/java/com/michael/member/service/MemberLoginService.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/java/com/michael/member/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/resources/mappers/userDoMapper.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/resources/mappers/userMapper.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-common-core/src/main/java/com/michael/core/constants/Constants.java" />
+        <option value="$PROJECT_DIR$/michael-shop-common-core/src/main/java/com/michael/core/constants/ConstantsToken.java" />
+        <option value="$PROJECT_DIR$/michael-shop-common-core/src/main/java/com/michael/core/code/token/GenerateToken.java" />
+        <option value="$PROJECT_DIR$/michael-shop-common-core/src/main/java/com/michael/core/type/TypeCastHelper.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-api-member/src/main/java/com/michael/member/service/MemberService.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/java/com/michael/member/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/michael-shop-common-core/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-common-core/src/main/java/com/michael/core/utils/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/java/com/michael/member/entity/UserDo.java" />
+        <option value="$PROJECT_DIR$/michael-shop-common-core/src/main/java/com/michael/core/base/BaseDo.java" />
+        <option value="$PROJECT_DIR$/michael-shop-api-dto-member/src/main/java/com/michael/member/input/dto/UserLoginInpDTO.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/java/com/michael/member/entity/UserTokenDo.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/java/com/michael/member/repository/UserTokenRepository.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/java/com/michael/member/mapper/UserTokenMapper.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/java/com/michael/member/service/impl/MemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/java/com/michael/member/AppMember.java" />
+        <option value="$PROJECT_DIR$/michael-shop-common-core/src/main/java/com/michael/core/transaction/RedisDataSoureceTransaction.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/java/com/michael/member/transaction/memberTranscation.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-impl-member/src/main/java/com/michael/member/service/impl/MemberLoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/michael-shop-common-web/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/templates/base/bottom.ftl" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/static/res/static/css/index.css" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/static/res/layui/css/layui.css" />
+        <option value="$PROJECT_DIR$/michael-shop-api-service/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-service/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-api-service-weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-api-service-member/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-service-member/src/main/java/com/michael/member/service/impl/MemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/michael-shop-service-member/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-service-weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/java/com/michael/fegin/MemberServiceFeign.java" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/java/com/michael/fegin/MemberLoginServiceFeign.java" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/java/com/michael/AppPortalWeb.java" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/java/com/michael/controller/RegisterController.java" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/java/com/michael/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/java/com/michael/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/templates/base/head.ftl" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/templates/member/login.ftl" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/static/res/static/css/register.css" />
+        <option value="$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/templates/member/register.ftl" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Desktop/maven/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\Desktop\maven\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="michael-shop-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="michael-shop-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="michael-shop-service-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="michael-shop-service-api" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-api-service-member" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="michael" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="michael" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="michael" type="462c0819:PsiDirectoryNode" />
+              <item name="fegin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-portal-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="member" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-member" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="member" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="member" type="462c0819:PsiDirectoryNode" />
+              <item name="feign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="member" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-member" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="michaelShopAllStack" type="b2602c69:ProjectViewProjectNode" />
+              <item name="michael-shop-service-weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="weixin" type="462c0819:PsiDirectoryNode" />
+              <item name="feign" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.18125" />
+    <property name="project.structure.side.proportion" value="0.35591602" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dysms-demo" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.michael.fegin" />
+      <recent name="com.michael.member.mapper" />
+      <recent name="com.michael.member.repository" />
+      <recent name="com.michael.config" />
+      <recent name="com.michael.weixin.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\michaelShopAllStack\michael-shop-portal-web\src\main\resources\templates\member" />
+      <recent name="D:\IdeaProjects\michaelShopAllStack\michael-shop-portal-web\src\main\java\com\michael\controller" />
+      <recent name="D:\IdeaProjects\michaelShopAllStack\michael-shop-portal-web\src\main\resources\static\res" />
+      <recent name="D:\IdeaProjects\michaelShopAllStack\michael-shop-portal-web\src\main\resources" />
+      <recent name="D:\IdeaProjects\michaelShopAllStack\michael-shop-service-impl-member\src\main\java\com\michael\member\entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AppPortalWeb">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="AppGateWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.michael.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.michael.AppGateWay" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="michael-shop-basics-springcloud-zuul" />
+      <envs />
+    </configuration>
+    <configuration name="AppPortalWeb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.michael.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.michael.AppPortalWeb" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="michael-shop-portal-web" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="AppEureka" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.michael.AppEureka" />
+      <module name="michael-shop-basics-springcloud-eureka" />
+      <envs />
+    </configuration>
+    <configuration name="AppGateWay" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.michael.AppGateWay" />
+      <module name="michael-shop-basics-springcloud-zuul" />
+      <envs />
+    </configuration>
+    <configuration name="AppMember (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.michael.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.michael.member.AppMember" />
+      <module name="michael-shop-service-member" />
+      <envs />
+    </configuration>
+    <configuration name="AppMember" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.michael.member.AppMember" />
+      <module name="michael-shop-service-impl-member" />
+      <envs />
+    </configuration>
+    <configuration name="AppPortalWeb" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.michael.AppPortalWeb" />
+      <module name="michael-shop-portal-web" />
+      <envs />
+    </configuration>
+    <configuration name="AppWeiXin (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.michael.weixin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.michael.weixin.AppWeiXin" />
+      <module name="michael-shop-service-impl-weixin" />
+      <envs />
+    </configuration>
+    <configuration name="AppWeiXin (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.michael.weixin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.michael.weixin.AppWeiXin" />
+      <module name="michael-shop-service-weixin" />
+      <envs />
+    </configuration>
+    <configuration name="AppWeiXin" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.michael.weixin.AppWeiXin" />
+      <module name="michael-shop-service-impl-service" />
+      <envs />
+    </configuration>
+    <configuration name="WxMpDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.binarywang.demo.wx.mp.WxMpDemoApplication" />
+      <module name="weixin-java-mp-demo-springboot" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="11">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.AppEureka" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.AppWeiXin" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.AppMember" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.AppGateWay" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.WxMpDemoApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.AppPortalWeb" />
+      <item index="6" class="java.lang.String" itemvalue="Spring Boot.AppWeiXin (1)" />
+      <item index="7" class="java.lang.String" itemvalue="Application.AppGateWay" />
+      <item index="8" class="java.lang.String" itemvalue="Application.AppPortalWeb" />
+      <item index="9" class="java.lang.String" itemvalue="Spring Boot.AppMember (1)" />
+      <item index="10" class="java.lang.String" itemvalue="Spring Boot.AppWeiXin (2)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.AppPortalWeb" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.AppWeiXin (2)" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.AppMember (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Spring Boot.AppWeiXin (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.AppGateWay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfd84355-63e5-417d-8c08-8cc6d0cb805d" name="Default" comment="" />
+      <created>1582720432208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582720432208</updated>
+      <workItem from="1582720436323" duration="3497000" />
+      <workItem from="1582724214384" duration="8481000" />
+      <workItem from="1582767762725" duration="18694000" />
+      <workItem from="1582863732687" duration="3270000" />
+      <workItem from="1582869323802" duration="924000" />
+      <workItem from="1582870341717" duration="741000" />
+      <workItem from="1582871302608" duration="5201000" />
+      <workItem from="1582947646437" duration="20429000" />
+      <workItem from="1582974644976" duration="5936000" />
+      <workItem from="1582980924730" duration="12689000" />
+      <workItem from="1582999063119" duration="749000" />
+      <workItem from="1583033971348" duration="13840000" />
+      <workItem from="1583079137348" duration="4511000" />
+      <workItem from="1583122078816" duration="16496000" />
+      <workItem from="1583209284969" duration="825000" />
+      <workItem from="1583212874420" duration="14742000" />
+      <workItem from="1583229752209" duration="2646000" />
+      <workItem from="1583247274542" duration="5785000" />
+      <workItem from="1583294680811" duration="7603000" />
+    </task>
+    <task id="LOCAL-00001" summary="微服务电商@Michael_001">
+      <created>1582868828836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582868828836</updated>
+    </task>
+    <task id="LOCAL-00002" summary="微服务电商@Michael_001">
+      <created>1582870701606</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582870701606</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestMapper_testUserMapper01 - 2020.02.29 at 20h 01m 04s.xml">
+      <configuration name="TestMapper.testUserMapper01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMapper_testUserMapper01_(1) - 2020.02.29 at 20h 04m 10s.xml">
+      <configuration name="TestMapper.testUserMapper01 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMapper_testUserMapper01_(1) - 2020.02.29 at 20h 12m 04s.xml">
+      <configuration name="TestMapper.testUserMapper01 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMapper_testUserMapper01_(1) - 2020.02.29 at 20h 13m 41s.xml">
+      <configuration name="TestMapper.testUserMapper01 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMapper_testUserMapper01_(1) - 2020.02.29 at 20h 21m 26s.xml">
+      <configuration name="TestMapper.testUserMapper01 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMapper_testUserMapper01_(1) - 2020.02.29 at 20h 24m 39s.xml">
+      <configuration name="TestMapper.testUserMapper01 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMapper_testUserMapper01_(1) - 2020.02.29 at 20h 28m 48s.xml">
+      <configuration name="TestMapper.testUserMapper01 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMapper_testUserMapper01_(1) - 2020.02.29 at 20h 29m 46s.xml">
+      <configuration name="TestMapper.testUserMapper01 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMapper_testUserMapper01_(1) - 2020.02.29 at 20h 31m 20s.xml">
+      <configuration name="TestMapper.testUserMapper01 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestMapper_testUserMapper01_(1) - 2020.02.29 at 20h 33m 34s.xml">
+      <configuration name="TestMapper.testUserMapper01 (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="147059000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29514962" sideWeight="0.50214595" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18830472" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18369453" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988626" sideWeight="0.49785408" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32920536" sideWeight="0.4967811" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988626" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32988626" sideWeight="0.49570817" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3384933" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988626" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988626" sideWeight="0.49785408" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24571735" sideWeight="0.49638057" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29345495" sideWeight="0.50361943" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32988626" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/michael-shop-parent" />
+      <path value="D:\IdeaProjects\michaelShopAllStack\MichaelShop" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="微服务电商@Michael_001" />
+    <option name="LAST_COMMIT_MESSAGE" value="微服务电商@Michael_001" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/michael-shop-service-weixin/src/main/java/com/michael/weixin/mp/handler/MsgHandler.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Desktop/maven/repository/org/springframework/spring-tx/5.0.5.RELEASE/spring-tx-5.0.5.RELEASE.jar!/org/springframework/transaction/support/AbstractPlatformTransactionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="338" column="22" lean-forward="false" selection-start-line="338" selection-start-column="22" selection-end-line="338" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Desktop/maven/repository/org/springframework/spring-jdbc/5.2.4.RELEASE/spring-jdbc-5.2.4.RELEASE.jar!/org/springframework/jdbc/datasource/DataSourceTransactionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-common-core/src/main/java/com/michael/core/utils/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="67" column="8" lean-forward="true" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-service-impl-member/src/main/java/com/michael/member/transaction/MemberTranscation.java" />
+    <entry file="file://$PROJECT_DIR$/michael-shop-common-core/src/main/java/com/michael/core/transaction/RedisDataSoureceTransaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-common-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/static/res/static/js/house.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="42" column="15" lean-forward="false" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/static/res/layui/lay/modules/laypage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="60" column="33" lean-forward="true" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/static/res/layui/css/layui.mobile.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="1695" lean-forward="false" selection-start-line="1" selection-start-column="1695" selection-end-line="1" selection-end-column="1695" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/static/res/layui/css/layui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="1" column="21770" lean-forward="true" selection-start-line="1" selection-start-column="21770" selection-end-line="1" selection-end-column="21770" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-aliyun-java-sms/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo-aliyun-java-sms/src/main/java/com/leyou/demo/SmsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1034">
+          <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-api-service-member/src/main/java/com/michael/member/service/MemberRegisterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-api-dto-member/src/main/java/com/michael/member/input/dto/UserLoginInpDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="33" column="29" lean-forward="false" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-api-dto-member/src/main/java/com/michael/member/input/dto/UserInpDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="39" lean-forward="false" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-api-dto-member/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-basics/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-131">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-common-core/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Desktop/maven/repository/org/mybatis/spring/boot/mybatis-spring-boot-starter/2.0.0/mybatis-spring-boot-starter-2.0.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-service-weixin/src/main/java/com/michael/weixin/AppWeiXin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-service-member/src/main/java/com/michael/member/service/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-770">
+          <caret line="42" column="39" lean-forward="false" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-api-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="36" lean-forward="false" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-api-service-weixin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="12" column="47" lean-forward="false" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-service-weixin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-726">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-service-member/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-api-service-member/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-api-service-member/src/main/java/com/michael/member/service/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-api-service-member/src/main/java/com/michael/member/service/MemberLoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/java/com/michael/fegin/MemberLoginServiceFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="53" lean-forward="false" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-service-member/src/main/java/com/michael/member/feign/VerificaCodeServiceFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-service-member/src/main/java/com/michael/member/feign/WeiXinServiceFeign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-service-member/src/main/java/com/michael/member/service/impl/MemberLoginServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="93" column="30" lean-forward="false" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-service-member/src/main/java/com/michael/member/service/impl/MemberRegisterServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="66" column="14" lean-forward="false" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-service-member/src/main/java/com/michael/member/AppMember.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/java/com/michael/AppPortalWeb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/templates/index.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="72" column="11" lean-forward="false" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/java/com/michael/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="26" column="32" lean-forward="true" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/java/com/michael/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/java/com/michael/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/templates/base/bottom.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/templates/base/head.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="60" lean-forward="false" selection-start-line="35" selection-start-column="60" selection-end-line="35" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/static/res/static/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/templates/member/login.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="72" column="10" lean-forward="false" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/static/res/static/css/register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="316" column="32" lean-forward="false" selection-start-line="316" selection-start-column="32" selection-end-line="316" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/michael-shop-portal-web/src/main/resources/templates/member/register.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>demo-weixin-java-mp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35591602" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29866412" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35591602" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

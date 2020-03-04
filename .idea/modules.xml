@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-aliyun-java-sms/demo-aliyun-java-sms.iml" filepath="$PROJECT_DIR$/demo-aliyun-java-sms/demo-aliyun-java-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-weixin-java-mp/demo-weixin-java-mp.iml" filepath="$PROJECT_DIR$/demo-weixin-java-mp/demo-weixin-java-mp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-api-dto/michael-shop-api-dto.iml" filepath="$PROJECT_DIR$/michael-shop-api-dto/michael-shop-api-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-api-dto-member/michael-shop-api-dto-member.iml" filepath="$PROJECT_DIR$/michael-shop-api-dto-member/michael-shop-api-dto-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-api-dto-weixin/michael-shop-api-dto-weixin.iml" filepath="$PROJECT_DIR$/michael-shop-api-dto-weixin/michael-shop-api-dto-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-api-service/michael-shop-api-service.iml" filepath="$PROJECT_DIR$/michael-shop-api-service/michael-shop-api-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-api-service-member/michael-shop-api-service-member.iml" filepath="$PROJECT_DIR$/michael-shop-api-service-member/michael-shop-api-service-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-api-service-weixin/michael-shop-api-service-weixin.iml" filepath="$PROJECT_DIR$/michael-shop-api-service-weixin/michael-shop-api-service-weixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-basics/michael-shop-basics.iml" filepath="$PROJECT_DIR$/michael-shop-basics/michael-shop-basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-basics-springcloud-eureka/michael-shop-basics-springcloud-eureka.iml" filepath="$PROJECT_DIR$/michael-shop-basics-springcloud-eureka/michael-shop-basics-springcloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-basics-springcloud-zuul/michael-shop-basics-springcloud-zuul.iml" filepath="$PROJECT_DIR$/michael-shop-basics-springcloud-zuul/michael-shop-basics-springcloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-common/michael-shop-common.iml" filepath="$PROJECT_DIR$/michael-shop-common/michael-shop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-common-core/michael-shop-common-core.iml" filepath="$PROJECT_DIR$/michael-shop-common-core/michael-shop-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-common-web/michael-shop-common-web.iml" filepath="$PROJECT_DIR$/michael-shop-common-web/michael-shop-common-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-parent/michael-shop-parent.iml" filepath="$PROJECT_DIR$/michael-shop-parent/michael-shop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-portal/michael-shop-portal.iml" filepath="$PROJECT_DIR$/michael-shop-portal/michael-shop-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-portal-web/michael-shop-portal-web.iml" filepath="$PROJECT_DIR$/michael-shop-portal-web/michael-shop-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-service/michael-shop-service.iml" filepath="$PROJECT_DIR$/michael-shop-service/michael-shop-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-service-member/michael-shop-service-member.iml" filepath="$PROJECT_DIR$/michael-shop-service-member/michael-shop-service-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/michael-shop-service-weixin/michael-shop-service-weixin.iml" filepath="$PROJECT_DIR$/michael-shop-service-weixin/michael-shop-service-weixin.iml" />
+    </modules>
+  </component>
+</project>

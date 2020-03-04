@@ -1,0 +1,38 @@
+###服务启动端口号
+server:
+  port: 8300
+###服务名称(服务注册到eureka名称)
+###数据源的配置
+spring:
+    application:
+      name: app-michael-member
+    datasource:
+      username: root
+      password: 123
+      driver-class-name: com.mysql.jdbc.Driver
+      url: jdbc:mysql://127.0.0.1:3306/michael?serverTimezone=UTC
+    jpa:
+        database: MySQL
+        database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+        show-sql: true
+        hibernate:
+          ddl-auto: update
+###服务注册到eureka地址
+eureka:
+  client:
+    service-url:
+           defaultZone: http://localhost:8100/eureka
+###swagger相关配置
+swagger:
+  basePackage: com.michael.member.service
+  title: 微服务电商-会员服务
+  description: 会员服务api文档
+###mybatis扫描的实体类的包
+mybatis:
+  type-aliases-package: com.michael.member.entity
+  mapper-locations: classpath:mappers/*.xml
+###打印日志
+logging:
+  level:
+    com.michael.member.mapper: debug
+    com.michael.member.repository: debug

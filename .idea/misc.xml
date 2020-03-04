@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/michael-shop-parent/pom.xml" />
+        <option value="D:/Desktop/个人提升/硬实力/2Java/Javaee/2/06电商项目/004-每特教育&amp;蚂蚁课堂-第四期-基于SpringCloud构建微服务电商项目-搭建企业级微信公众号管理平台/资料/weixin-java-mp-demo-springboot-master/pom.xml" />
+        <option value="$PROJECT_DIR$/weixin-java-mp-demo-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/dysms-demo/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/michael-shop-api-entitys-member/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-api-entitys-weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/michael-shop-api-entitys/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

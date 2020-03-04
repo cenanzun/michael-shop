@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dysms-demo" />
+        <module name="michael-shop-api-dto-member" />
+        <module name="michael-shop-api-dto-weixin" />
+        <module name="michael-shop-api-entitys-api-member" />
+        <module name="michael-shop-api-entitys-api-weixin" />
+        <module name="michael-shop-api-service-member" />
+        <module name="michael-shop-api-service-weixin" />
+        <module name="michael-shop-basics-springcloud-eureka" />
+        <module name="michael-shop-basics-springcloud-zuul" />
+        <module name="michael-shop-common-core" />
+        <module name="michael-shop-common-web" />
+        <module name="michael-shop-portal-web" />
+        <module name="michael-shop-service-api-member" />
+        <module name="michael-shop-service-api-weixin" />
+        <module name="michael-shop-service-impl-member" />
+        <module name="michael-shop-service-impl-service" />
+        <module name="michael-shop-service-impl-weixin" />
+        <module name="michael-shop-service-member" />
+        <module name="michael-shop-service-weixin" />
+        <module name="weixin-java-mp-demo-springboot" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dysms-demo" target="1.5" />
+      <module name="michael-shop-api-dto" target="1.8" />
+      <module name="michael-shop-api-dto-member" target="1.8" />
+      <module name="michael-shop-api-dto-weixin" target="1.8" />
+      <module name="michael-shop-api-entitys" target="1.8" />
+      <module name="michael-shop-api-entitys-api" target="1.8" />
+      <module name="michael-shop-api-entitys-api-member" target="1.8" />
+      <module name="michael-shop-api-entitys-api-weixin" target="1.8" />
+      <module name="michael-shop-api-entitys-member" target="1.8" />
+      <module name="michael-shop-api-entitys-weixin" target="1.8" />
+      <module name="michael-shop-api-service" target="1.8" />
+      <module name="michael-shop-api-service-member" target="1.8" />
+      <module name="michael-shop-api-service-weixin" target="1.8" />
+      <module name="michael-shop-basics" target="1.8" />
+      <module name="michael-shop-basics-springcloud-eureka" target="1.8" />
+      <module name="michael-shop-basics-springcloud-zuul" target="1.8" />
+      <module name="michael-shop-common" target="1.8" />
+      <module name="michael-shop-common-core" target="1.8" />
+      <module name="michael-shop-common-web" target="1.8" />
+      <module name="michael-shop-parent" target="1.8" />
+      <module name="michael-shop-portal" target="1.8" />
+      <module name="michael-shop-portal-web" target="1.8" />
+      <module name="michael-shop-service" target="1.8" />
+      <module name="michael-shop-service-api" target="1.8" />
+      <module name="michael-shop-service-api-member" target="1.8" />
+      <module name="michael-shop-service-api-weixin" target="1.8" />
+      <module name="michael-shop-service-impl" target="1.8" />
+      <module name="michael-shop-service-impl-member" target="1.8" />
+      <module name="michael-shop-service-impl-service" target="1.8" />
+      <module name="michael-shop-service-impl-weixin" target="1.8" />
+      <module name="michael-shop-service-member" target="1.8" />
+      <module name="michael-shop-service-weixin" target="1.8" />
+      <module name="weixin-java-mp-demo-springboot" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
